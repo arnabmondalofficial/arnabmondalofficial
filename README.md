@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Arnab Mondal
 
-<!--
-**arnabmondalofficial/arnabmondalofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer | Python | VB.NET | IoT  
+🚀 Passionate about building real-world applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python
+- VB.NET (Windows Forms)
+- ESP32 / IoT
+- Tkinter GUI
+- Excel Automation
+
+---
+
+## 🚀 Projects
+
+
+### 🔹 Auralis Smart Stick
+- ESP32-based smart assistant stick
+- Bluetooth connectivity with desktop app
+- Weather updates, WiFi connection, QR scanning
+
+👉 [View Project](#)
+
+---
+
+## 📸 Screenshots
+(Add screenshots of your projects here)
+
+---
+
+## 📫 Contact Me
+- LinkedIn: https://www.linkedin.com/in/arnab-mondal-031bb3252/
+- Email: arnabmondal1921@gmail.com
+
+---
+
+⭐ “Building things that solve real problems”
