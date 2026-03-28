@@ -32,7 +32,7 @@
 ---
 
 ## 📫 Contact Me
-- LinkedIn: https://www.linkedin.com/in/arnab-mondal-031bb3252/
+- LinkedIn:[LinkedIn Profile](https://www.linkedin.com/in/arnab-mondal-031bb3252/)
 - Email: arnabmondal1921@gmail.com
 
 ---
